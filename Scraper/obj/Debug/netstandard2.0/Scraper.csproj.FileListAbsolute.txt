@@ -1,0 +1,27 @@
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\bin\Debug\netstandard2.0\Scraper.deps.json
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\bin\Debug\netstandard2.0\Scraper.dll
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.csprojAssemblyReference.cache
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfoInputs.cache
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfo.cs
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\bin\Debug\netstandard2.0\Scraper.pdb
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.csproj.CoreCompileInputs.cache
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.dll
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\Scraper\obj\Debug\netstandard2.0\Scraper.pdb
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfoInputs.cache
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfo.cs
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.deps.json
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.dll
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.pdb
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.dll
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.pdb
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.csprojAssemblyReference.cache
+D:\md\my-files\freelancer\web-development\web-scrape\Asnet\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.csproj.CoreCompileInputs.cache
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.deps.json
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.dll
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\bin\Debug\netstandard2.0\Scraper.pdb
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.csprojAssemblyReference.cache
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.csproj.CoreCompileInputs.cache
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfoInputs.cache
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.AssemblyInfo.cs
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.dll
+D:\In Progress\ASNET_scrapper\AsnetScraper\Scraper\obj\Debug\netstandard2.0\Scraper.pdb
